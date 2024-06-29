@@ -1,0 +1,59 @@
+[
+   {
+     "id": 1,
+     "name": "C BASIC",
+     "title": "Nail your skill with us",
+     "price": 0,
+     "catagory": "Free",
+     "image": "https://img.freepik.com/premium-photo/neon-light-alphabet-3d-rendering-with-clipping-path_51264-55.jpg?size=626&ext=jpg&ga=GA1.1.532441772.1687938989&semt=ais_user"
+   },
+   {
+     "id": 2,
+     "name": "JAVA",
+     "title": "New horaization of coding ",
+     "price": 50,
+     "catagory": "Free",
+     "image": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?ga=GA1.2.532441772.1687938989&semt=sph"
+   },
+   {
+     "id": 3,
+     "name": "C++",
+     "title": "Code with us",
+     "price": 0,
+     "catagory": "Free",
+     "image": "https://images.pexels.com/photos/11035472/pexels-photo-11035472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+   },
+   {
+     "id": 4,
+     "name": "Python",
+     "title": "Chase your dream",
+     "price": 0,
+     "catagory": "Free",
+     "image": "https://images.pexels.com/photos/11035474/pexels-photo-11035474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+   },
+   {
+     "id": 5,
+     "name": "HTML",
+     "title": "It is you who writes codes",
+     "price": 0,
+     "catagory": "Free",
+     "image": "https://cdn.pixabay.com/photo/2018/05/08/21/28/html5-3384014_1280.png"
+   },
+   {
+     "id": 6,
+     "name": "CSS",
+     "title": "Design your dream with code",
+     "price": 0,
+     "catagory": "Free",
+     "image": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"
+   },
+   {
+     "id": 7,
+     "name": "Kotlin",
+     "title": "CODE journey to the next level",
+     "price": 0,
+     "catagory": "Free",
+     "image": "https://images.unsplash.com/photo-1588690154757-badf4644190f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+   }
+ ]
+ 
